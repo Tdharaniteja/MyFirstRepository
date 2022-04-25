@@ -1,1 +1,2 @@
-hellow welcome to git
+hello welcome to git
+this a practice
