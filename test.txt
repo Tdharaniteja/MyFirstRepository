@@ -1,2 +1,3 @@
 hello welcome to git
 this a practice
+adding some other line
